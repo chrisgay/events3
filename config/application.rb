@@ -1,6 +1,4 @@
-jquery.fullPage.css
-jquery.fullPage.js
-jquery.fullPage.min.jsrequire File.expand_path('../boot', __FILE__)
+require File.expand_path('../boot', __FILE__)
 
 require 'rails/all'
 
